@@ -1,0 +1,189 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\babidoye\Documents\LSMS\lsms_data\Nigeria\Post_Harvest_Household\nigerstate.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 6 Nov 2012, 11:04:31
+
+{com}. tab state s12q2a
+
+            {txt}{c |}                                    number of adults
+ state code {c |}         0          1          2          3          4          5          6          9 {c |}     Total
+{hline 12}{c +}{hline 88}{c +}{hline 10}
+      benue {c |}{res}         5          0         23        131          0          1          0          0 {txt}{c |}{res}       160 
+{txt}       kogi {c |}{res}         0          0          7        109          2          0          0          0 {txt}{c |}{res}       118 
+{txt}      kwara {c |}{res}         0          0          1        108          2          1          0          0 {txt}{c |}{res}       112 
+{txt}   nasarawa {c |}{res}         0          2          7         60          0          0          0          0 {txt}{c |}{res}        69 
+{txt}      niger {c |}{res}         0          1         21        156          0          0          0          0 {txt}{c |}{res}       178 
+{txt}    plateau {c |}{res}         0          1         45         62          0          0          1          1 {txt}{c |}{res}       110 
+{txt}{hline 12}{c +}{hline 88}{c +}{hline 10}
+      Total {c |}{res}         5          4        104        626          4          2          1          1 {txt}{c |}{res}       747 
+
+
+{com}. tab state s12q2b
+
+            {txt}{c |}                                       number of children (6-59 months)
+ state code {c |}         0          1          2          3          4          5          6          7         10         33 {c |}     Total
+{hline 12}{c +}{hline 110}{c +}{hline 10}
+      benue {c |}{res}        33          0          0         71         21         10          1          1          0          0 {txt}{c |}{res}       137 
+{txt}       kogi {c |}{res}        16          0          1         32         32          5          0          0          0          0 {txt}{c |}{res}        86 
+{txt}      kwara {c |}{res}        13          0          1         22         24          3          1          0          1          0 {txt}{c |}{res}        65 
+{txt}   nasarawa {c |}{res}         0          0          7         62          0          0          0          0          0          0 {txt}{c |}{res}        69 
+{txt}      niger {c |}{res}         3          3          6         80         48         25          1          0          0          1 {txt}{c |}{res}       167 
+{txt}    plateau {c |}{res}         3          2          9         70          0          0          0          0          0          0 {txt}{c |}{res}        84 
+{txt}{hline 12}{c +}{hline 110}{c +}{hline 10}
+      Total {c |}{res}        68          5         24        337        125         43          3          1          1          1 {txt}{c |}{res}       608 
+
+
+{com}. translate "C:\Users\babidoye\Documents\LSMS\lsms_data\Nigeria\Post_Harvest_Household\nigerstate.smcl" "C:\Users\babidoye\Documents\LSMS\lsms_data\Nigeria\Post_Harvest_Household\nigerstate.txt", replace linesize(200) translator(smcl2log)
+{txt}(note: file C:\Users\babidoye\Documents\LSMS\lsms_data\Nigeria\Post_Harvest_Household\nigerstate.txt not found)
+(file C:\Users\babidoye\Documents\LSMS\lsms_data\Nigeria\Post_Harvest_Household\nigerstate.txt written in .log format)
+
+{com}. exit, clear
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}C:\Users\babidoye\Documents\LSMS\lsms_data\Nigeria\Post_Harvest_Household\nigerstate.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}11 Nov 2012, 05:55:21
+
+{com}. tab state s12q5
+
+            {txt}{c |}  situation when you
+            {c |}  did not have enough
+            {c |}     food to feed
+ state code {c |}       yes         no {c |}     Total
+{hline 12}{c +}{hline 22}{c +}{hline 10}
+      benue {c |}{res}        14        146 {txt}{c |}{res}       160 
+{txt}       kogi {c |}{res}        14        105 {txt}{c |}{res}       119 
+{txt}      kwara {c |}{res}        25         87 {txt}{c |}{res}       112 
+{txt}   nasarawa {c |}{res}        17         52 {txt}{c |}{res}        69 
+{txt}      niger {c |}{res}        49        129 {txt}{c |}{res}       178 
+{txt}    plateau {c |}{res}        49         61 {txt}{c |}{res}       110 
+{txt}{hline 12}{c +}{hline 22}{c +}{hline 10}
+      Total {c |}{res}       168        580 {txt}{c |}{res}       748 
+
+
+{com}. tab state s12q6a
+
+            {txt}{c |}                                                     2010
+ state code {c |}   january   february      march      april        may       june       july     august  september    october {c |}     Total
+{hline 12}{c +}{hline 110}{c +}{hline 10}
+      benue {c |}{res}         0          0          1          0          0          7          5          0          0          0 {txt}{c |}{res}        13 
+{txt}       kogi {c |}{res}         1          0          0          4          4          5          0          0          0          0 {txt}{c |}{res}        14 
+{txt}      kwara {c |}{res}         0          0          2          5          6          5          3          1          0          0 {txt}{c |}{res}        24 
+{txt}   nasarawa {c |}{res}         4          0          0          2          1          7          0          3          0          0 {txt}{c |}{res}        17 
+{txt}      niger {c |}{res}         3          2          1          0          3         21         15          1          1          0 {txt}{c |}{res}        48 
+{txt}    plateau {c |}{res}         0          0          1          1          3          0         27          9          4          1 {txt}{c |}{res}        46 
+{txt}{hline 12}{c +}{hline 110}{c +}{hline 10}
+      Total {c |}{res}         8          2          5         12         17         45         50         14          5          1 {txt}{c |}{res}       162 
+
+
+            {txt}{c |}    2010
+ state code {c |}  november {c |}     Total
+{hline 12}{c +}{hline 11}{c +}{hline 10}
+      benue {c |}{res}         0 {txt}{c |}{res}        13 
+{txt}       kogi {c |}{res}         0 {txt}{c |}{res}        14 
+{txt}      kwara {c |}{res}         2 {txt}{c |}{res}        24 
+{txt}   nasarawa {c |}{res}         0 {txt}{c |}{res}        17 
+{txt}      niger {c |}{res}         1 {txt}{c |}{res}        48 
+{txt}    plateau {c |}{res}         0 {txt}{c |}{res}        46 
+{txt}{hline 12}{c +}{hline 11}{c +}{hline 10}
+      Total {c |}{res}         3 {txt}{c |}{res}       162 
+
+
+{com}. tab state s12q6b
+
+            {txt}{c |}                                                2010
+ state code {c |}   january   february      april        may       june       july     august  september   december {c |}     Total
+{hline 12}{c +}{hline 99}{c +}{hline 10}
+      benue {c |}{res}         0          0          1          0          2          7          1          0          0 {txt}{c |}{res}        11 
+{txt}       kogi {c |}{res}         0          1          0          4          4          5          0          0          0 {txt}{c |}{res}        14 
+{txt}      kwara {c |}{res}         0          1          2          5          4          3          5          0          1 {txt}{c |}{res}        21 
+{txt}   nasarawa {c |}{res}         0          0          0          1          0          0          0          0          0 {txt}{c |}{res}         1 
+{txt}      niger {c |}{res}         1          1          1          0          2         13         15          0          1 {txt}{c |}{res}        34 
+{txt}    plateau {c |}{res}         1          0          1          0          1          1         16          6          0 {txt}{c |}{res}        26 
+{txt}{hline 12}{c +}{hline 99}{c +}{hline 10}
+      Total {c |}{res}         2          3          5         10         13         29         37          6          2 {txt}{c |}{res}       107 
+
+
+{com}. tab state s12q7a
+
+            {txt}{c |}                              what was the cause of this situation ist
+ state code {c |} inadequat  inadequat  inadequat  inadequat  food in t  unable to  no food i  unable to  other (sp {c |}     Total
+{hline 12}{c +}{hline 99}{c +}{hline 10}
+      benue {c |}{res}         9          0          0          0          0          0          0          4          0 {txt}{c |}{res}        13 
+{txt}       kogi {c |}{res}         4          0          1          0          5          0          2          0          2 {txt}{c |}{res}        14 
+{txt}      kwara {c |}{res}         1          0          3          0         15          0          0          0          6 {txt}{c |}{res}        25 
+{txt}   nasarawa {c |}{res}         9          1          1          3          1          0          0          0          2 {txt}{c |}{res}        17 
+{txt}      niger {c |}{res}         1          3          2          2         31          1          0          0          5 {txt}{c |}{res}        45 
+{txt}    plateau {c |}{res}         7          3         12         12          9          0          0          0          4 {txt}{c |}{res}        47 
+{txt}{hline 12}{c +}{hline 99}{c +}{hline 10}
+      Total {c |}{res}        31          7         19         17         61          1          2          4         19 {txt}{c |}{res}       161 
+
+
+{com}. count if  s12q1a>0 & s12q1b>0 & state==26
+{res}   95
+
+{com}. count if  s12q1a>0 & s12q1b>0 &  s12q1i>0 state==26
+{err}invalid 'state' 
+{txt}{search r(198):r(198);}
+
+{com}. count if  s12q1a>0 & s12q1b>0 &  s12q1i>0 & state==26
+{res}   90
+
+{com}. br if  s12q1a>0 & s12q1b>0 &  s12q1i>0 state==26
+{err}invalid 'state' 
+{txt}{search r(198):r(198);}
+
+{com}. br if  s12q1a>0 & s12q1b>0 &  s12q1i>0 & state==26
+
+. br if  s12q1a>0 & s12q1a<50 &s12q1b>0 &  s12q1i>0 & state==26
+
+. count if  s12q1a>0 & s12q1a<50 & s12q1b>0 & s12q1b<50  &  s12q1i>0 & state==26
+{res}   17
+
+{com}. count if  s12q1a>0 & s12q1a<50 & s12q1b>0 & s12q1b<50  &  s12q1i>0 & s12q1i<50 & state==26
+{res}    0
+
+{com}. su  s12q1i
+
+{txt}    Variable {c |}       Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 56}
+{space 6}s12q1i {c |}{res}       649    .0292758    .3104252          0          6
+
+{com}. br if  s12q1a>0 & s12q1a<50 & s12q1b>0 & s12q1b<50  &  s12q1i>0  & state==26
+
+. count if   s12q1i>0 & s12q1i<50 & state==26
+{res}    1
+
+{com}. tab state s12q7b
+
+            {txt}{c |}                              what was the cause of this situation 2nd
+ state code {c |} inadequat  inadequat  inadequat  inadequat  food in t  unable to  no food i  unable to  other (sp {c |}     Total
+{hline 12}{c +}{hline 99}{c +}{hline 10}
+      benue {c |}{res}         4          6          0          0          0          0          0          1          0 {txt}{c |}{res}        11 
+{txt}       kogi {c |}{res}         2          1          2          2          1          0          2          2          1 {txt}{c |}{res}        13 
+{txt}      kwara {c |}{res}         0          0          1          0          3          0          0          0          0 {txt}{c |}{res}         4 
+{txt}   nasarawa {c |}{res}         0          8          0          0          3          0          0          0          0 {txt}{c |}{res}        11 
+{txt}      niger {c |}{res}         1          5          2          9          7          4          1          0          1 {txt}{c |}{res}        30 
+{txt}    plateau {c |}{res}         3          4          9          9          5          1          0          0          4 {txt}{c |}{res}        35 
+{txt}{hline 12}{c +}{hline 99}{c +}{hline 10}
+      Total {c |}{res}        10         24         14         20         19          5          3          3          6 {txt}{c |}{res}       104 
+
+
+{com}. tab state s12q7c
+
+            {txt}{c |}                              what was the cause of this situation 3rd
+ state code {c |} inadequat  inadequat  inadequat  inadequat  food in t  unable to  no food i  unable to  other (sp {c |}     Total
+{hline 12}{c +}{hline 99}{c +}{hline 10}
+      benue {c |}{res}         1          2          1          0          0          0          0          1          0 {txt}{c |}{res}         5 
+{txt}       kogi {c |}{res}         1          0          1          1          1          0          2          0          0 {txt}{c |}{res}         6 
+{txt}   nasarawa {c |}{res}         0          0          0          0          1          0          0          0          0 {txt}{c |}{res}         1 
+{txt}      niger {c |}{res}         0          2          1          0          0          0          0          0          0 {txt}{c |}{res}         3 
+{txt}    plateau {c |}{res}         1          2          3          7          0          4          0          1          4 {txt}{c |}{res}        22 
+{txt}{hline 12}{c +}{hline 99}{c +}{hline 10}
+      Total {c |}{res}         3          6          6          8          2          4          2          2          4 {txt}{c |}{res}        37 
+
+
+{com}. exit, clear
