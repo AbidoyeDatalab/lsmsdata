@@ -1,0 +1,13 @@
+"How many meals, including breakfast are taken per day in your household"												
+												
+		number of adult							number of children (6-59 months)			
+state code	0	1	2	3	Total		state code  	0	1	2	3 or higher	   Total
+												
+benue	5	0	23	132	160		benue	33	0	0	104	137
+kogi	0	0	7	111	118		kogi	16	0	1	69	86
+kwara	0	0	1	111	112		kwara	13	0	1	51	65
+nasarawa	0	2	7	60	69		nasarawa	0	0	7	62	69
+niger	0	1	21	156	178		niger	3	3	6	155	167
+plateau	0	1	45	64	110		plateau	3	2	9	70	84
+												
+Total	5	4	104	626	747		Total	68	5	24	337	608
